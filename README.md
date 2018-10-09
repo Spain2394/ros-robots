@@ -1,7 +1,5 @@
-#### CSCI/ARTI 4530/6530 Introduction to Robotics - Robotics and ROS
-##### Assignment 1
-##### Instructor: Ramviyas N. Parasuraman
-##### Allen Spain
+## CSCI/ARTI 4530/6530 Introduction to Robotics - Robotics and ROS
+## Allen Spain
 
 **Compilation and Testing**
 
@@ -29,7 +27,7 @@ rosrun my_turtle_spain Listen_Turtle.py
 
 **Run Listen_Turtle**
 ```
-rosrun my_turtle_spain Listen_Turtle.py
+rosrun my_turtle_spain Move_Turtle.py
 ```
 
 **Observations**
