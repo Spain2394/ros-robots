@@ -1,4 +1,4 @@
-# CSCI/ARTI 4530/6530 Introduction to Robotics - Robotics and ROS
+# Turtlebot Publisher and Subscriber
 ## Allen Spain
 
 ### System Setup
@@ -22,7 +22,7 @@ I used  ```demo ``` to move turtlebot in ```rviz``` without running  ``` Move_Tu
 
 ### Run Move_Turtle
 
-To move the turtle at 0.2 m/s run:
+To move the turtle forward run:
 
 ```
 rosrun my_turtle_spain Listen_Turtle.py
