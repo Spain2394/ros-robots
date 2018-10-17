@@ -1,5 +1,5 @@
 # my_turtle_spain
-Turtlebot simulation in rviz. Turtlebot receives command velocity, and computes the inverse kinematics and published wheel rotation. 
+Turtlebot differential drive robot simulation in rviz. Turtlebot receives command velocity, computes inverse kinematics and publish wheel rotation. 
 
 ### System Setup
 MacPro
