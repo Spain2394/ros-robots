@@ -1,5 +1,5 @@
-# Turtlebot Publisher and Subscriber
-## Allen Spain
+# my_turtle_spain
+Turtlebot simulation in rviz. Turtlebot receives command velocity, and computes the inverse kinematics and published wheel rotation. 
 
 ### System Setup
 MacPro
