@@ -2,7 +2,8 @@
 ## Allen Spain
 
 ### System Setup
-Installed ROS Kinetic on Ubunutu 16.04. Using MacOSX
+MacPro
+Parallels VM running ROS Kinetic on Ubunutu 16.04.
 
 
 ### Compilation and Testing
