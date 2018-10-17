@@ -10,7 +10,6 @@ Installed ROS Kinetic on Ubunutu 16.04. Using MacOSX
 To stage Turtlebot run:
 ```
 $ roslaunch turtlebot_stage turtlebot_in_stage.launch
-
 ```
 To use ```rosrun ``` place the code below in your ``` .bashrc ```
 ```
@@ -23,7 +22,6 @@ I used  ```demo ``` to move turtlebot in ```rviz``` without running  ``` Move_Tu
 ### Run Move_Turtle
 
 To move the turtle forward run:
-
 ```
 rosrun my_turtle_spain Listen_Turtle.py
 ```
