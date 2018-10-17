@@ -14,7 +14,7 @@ $ roslaunch turtlebot_stage turtlebot_in_stage.launch
 ```
 To use ```rosrun ``` place the code below in your ``` .bashrc ```
 ```
-source ~/catkin_ws/devel/setup.bash
+$ source ~/catkin_ws/devel/setup.bash
 ```
 catkin_ws is your ROS workspace.
 
@@ -24,7 +24,7 @@ I used  ```demo ``` to move turtlebot in ```rviz``` without running  ``` Move_Tu
 
 To move the turtle forward run:
 ```
-rosrun my_turtle_spain Listen_Turtle.py
+$ rosrun my_turtle_spain Listen_Turtle.py
 ```
 
 ### Run Listen_Turtle
