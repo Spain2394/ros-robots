@@ -34,5 +34,4 @@ rosrun my_turtle_spain Move_Turtle.py
 ```
 
 ### Observations
-- Publishers and subscribers can be used as a convienent way of sending messages on topics relevant to the behaviour of the robot
-- Subscribers can access data for further processsing.
+- Publishers and subscribers can be used as a convienent way of sending messages on topics relevant to behavior and telemetry of the robot.
