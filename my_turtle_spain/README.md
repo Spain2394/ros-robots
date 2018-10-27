@@ -20,14 +20,14 @@ catkin_ws is your ROS workspace.
 
 I used  ```demo ``` to move turtlebot in ```rviz``` without running  ``` Move_Turtle ```
 
-### Run Move_Turtle
+### Run Listen_Turtle
 
 To move the turtle forward run:
 ```
 $ rosrun my_turtle_spain Listen_Turtle.py
 ```
 
-### Run Listen_Turtle
+### Run Move_Turtle
 ```
 rosrun my_turtle_spain Move_Turtle.py
 ```
