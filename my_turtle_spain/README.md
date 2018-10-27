@@ -2,8 +2,7 @@
 Turtlebot differential drive robot simulation in rviz. Turtlebot receives command velocity, computes inverse kinematics and publish wheel rotation. 
 
 ### System Setup
-MacPro
-Parallels VM running ROS Kinetic on Ubunutu 16.04.
+2015 Macbook Pro using Parallels VM running ROS Kinetic on Ubunutu 16.04.
 
 
 ### Compilation and Testing
