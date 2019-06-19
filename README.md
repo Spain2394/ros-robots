@@ -1,5 +1,5 @@
 # ROS Robotics
-ROS projects involving localization, mapping, SLAM, robot drivers, and sensor models. 
+simple turtle bot subscriber & publisher
 
 ## Getting Started
 
